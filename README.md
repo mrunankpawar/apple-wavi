@@ -1,5 +1,6 @@
-<p align="center"> Welcome to  </p>
+<p align="center"> <b> Welcome to  </b></p>
  
+<p> <b> This text is bold </b> <br> <span style="color:#0000FF;"> This text is blue </span> <br> <marquee> This text moves </marquee> <br> And this text is normal🤓! </p>
 <br>
  
 <p align="justify">Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world's largest technology company by revenue and, since January 2021, the world's most valuable company.</p>
