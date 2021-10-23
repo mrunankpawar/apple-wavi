@@ -8,12 +8,12 @@
 
 <p align="center">
 Shop products <br><br>
-<a href="https://www.apple.com/mac/">Mac</a> | 
-<a href="https://www.apple.com/mac/">iPad</a> | 
-<a href="https://www.apple.com/mac/">iPhone</a> | 
-<a href="https://www.apple.com/mac/">Watch</a> | 
-<a href="https://www.apple.com/mac/">AirPods</a> | 
-<a href="https://www.apple.com/mac/">TV & Home</a> | 
+<a href="https://www.apple.com/mac/" target="_blank">Mac</a> | 
+<a href="https://www.apple.com/mac/" target="_blank">iPad</a> | 
+<a href="https://www.apple.com/mac/" target="_blank">iPhone</a> | 
+<a href="https://www.apple.com/mac/" target="_blank">Watch</a> | 
+<a href="https://www.apple.com/mac/" target="_blank">AirPods</a> | 
+<a href="https://www.apple.com/mac/" target="_blank">TV & Home</a> | 
 </p>
 
 <hr>
