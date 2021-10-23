@@ -6,5 +6,5 @@
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/MMdQ-gWBNZE">
 </iframe><br><br>
-<a href="https://www.apple.com/iphone/" target="_blank">Shop iPhone</a>
+<a href="https://www.apple.com/watch/" target="_blank">Shop Watch</a>
 </p>
