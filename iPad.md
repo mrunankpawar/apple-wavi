@@ -6,7 +6,7 @@
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/aOq49euWnIo">
 </iframe><br><br>
-<a href="https://www.apple.com/ipad/" target="_blank">Shop iPhone</a>
+<a href="https://www.apple.com/ipad/" target="_blank">Shop iPad</a>
 </p>
 
 
