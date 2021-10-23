@@ -1,14 +1,11 @@
-<p align="center"> <b> Welcome to  </b></p>
- 
-<p> <b> This text is bold </b> <br> <span style="color:#0000FF;"> This text is blue </span> <br> <marquee> This text moves </marquee> <br> And this text is normal🤓! </p>
-<br>
+<p align="center"> <b> <marquee> Welcome to  </marquee></b></p>
  
 <p align="justify">Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world's largest technology company by revenue and, since January 2021, the world's most valuable company.</p>
 
 <hr>
 
 <p align="center">
-Shop products <br><br>
+Shop all products <br><br>
 <a href="https://www.apple.com/mac/" target="_blank">Mac</a> | 
 <a href="https://www.apple.com/mac/" target="_blank">iPad</a> | 
 <a href="https://www.apple.com/mac/" target="_blank">iPhone</a> | 
@@ -27,5 +24,4 @@ Follow on socials <br><br>
 <a href="https://www.instagram.com/apple/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/apple-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
   
-  <hr>
   
