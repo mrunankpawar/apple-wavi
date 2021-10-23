@@ -6,5 +6,5 @@
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/861Dt8Fy0IA">
 </iframe><br><br>
-<a href="https://www.apple.com/iphone/" target="_blank">Shop TV & Home</a>
+<a href="https://www.apple.com/tv-home/" target="_blank">Shop TV & Home</a>
 </p>
