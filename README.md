@@ -7,11 +7,11 @@
 <p align="center">
 Shop all products <br><br>
 <a href="https://www.apple.com/mac/" target="_blank">Mac</a> | 
-<a href="https://www.apple.com/mac/" target="_blank">iPad</a> | 
-<a href="https://www.apple.com/mac/" target="_blank">iPhone</a> | 
-<a href="https://www.apple.com/mac/" target="_blank">Watch</a> | 
-<a href="https://www.apple.com/mac/" target="_blank">AirPods</a> | 
-<a href="https://www.apple.com/mac/" target="_blank">TV & Home</a> | 
+<a href="https://www.apple.com/ipad/" target="_blank">iPad</a> | 
+<a href="https://www.apple.com/iphone/" target="_blank">iPhone</a> | 
+<a href="https://www.apple.com/watch/" target="_blank">Watch</a> | 
+<a href="https://www.apple.com/airpods/" target="_blank">AirPods</a> | 
+<a href="https://www.apple.com/tv-home/" target="_blank">TV & Home</a> | 
 </p>
 
 <hr>
