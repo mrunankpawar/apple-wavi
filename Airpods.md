@@ -6,5 +6,5 @@
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/-5y2YqrlOr4">
 </iframe><br><br>
-<a href="https://www.apple.com/iphone/" target="_blank">Shop Airpods</a>
+<a href="https://www.apple.com/airpods/" target="_blank">Shop Airpods</a>
 </p>
